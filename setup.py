@@ -9,8 +9,8 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name='Exif-python',
-    version='1.0.3',
-    description='Extract Exif data from image or video files',
+    version='1.0.4',
+    description='Extract Exif data from image files',
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
