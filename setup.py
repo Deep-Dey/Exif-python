@@ -9,15 +9,15 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name='Exif-python',
-    version='1.0.1',
+    version='1.0.2',
     description='Extract Exif data from image or video files',
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
     author="Deep Dey",
     author_email='deepdey10998@gmail.com',
-    url='https://github.com/gmyrianthous/example-publish-pypi',
-    keywords='Exif image metadata',
+    url='https://github.com/Deep-Dey/Exif-python',
+    keywords='Exif image video metadata',
     install_requires=[
         'Pillow>=8.4.0',
     ],
